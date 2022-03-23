@@ -3,4 +3,4 @@ Recreate the page below using flex to allow the elements to stretch with weighti
 - align-items
 - flex: weighting
 
-![Model](img/columns-edit.mp4)
+![Model](img/flex-columns.gif)
